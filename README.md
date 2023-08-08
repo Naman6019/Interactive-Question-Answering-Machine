@@ -1,4 +1,3 @@
-# DeepLearning
-Deep Learning Project
-Project on Interactive Question Answering Machine Using Natural Language Processing
-Number of models used = 4
+# Deep Learning
+Project on Interactive Question Answering Machine Using Natural Language Processing.
+Dataset used(SQuAD 2.0)
